@@ -168,10 +168,10 @@ export default function SignupPage() {
             className="hidden lg:block"
           >
             <div className="sticky top-24">
-              <Badge className="mb-6 bg-primary/10 text-primary">Join DocVerify</Badge>
+              <Badge className="mb-6 bg-primary/10 text-primary">Join BlockCertify</Badge>
               <h1 className="text-4xl font-bold mb-4">Start Verifying Documents Today</h1>
               <p className="text-xl text-muted-foreground mb-8">
-                Join thousands of companies worldwide who trust DocVerify for secure, accurate, and fast document
+                Join thousands of companies worldwide who trust BlockCertify for secure, accurate, and fast document
                 verification.
               </p>
 
@@ -242,7 +242,7 @@ export default function SignupPage() {
                 </div>
               </motion.div>
               <h1 className="text-3xl font-bold mb-2">Create Your Account</h1>
-              <p className="text-muted-foreground">Join thousands of companies using DocVerify</p>
+              <p className="text-muted-foreground">Join thousands of companies using BlockCertify</p>
             </div>
 
             <Card className="shadow-lg border-2">

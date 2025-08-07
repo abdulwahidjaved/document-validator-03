@@ -8,7 +8,7 @@ import { AuthProvider } from "@/components/auth-context"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "DocVerify - Secure Document Validation Platform",
+  title: "BlockCertify - Secure Document Validation Platform",
   description:
     "The world's most trusted document validation platform. Verify, validate, and authenticate documents with AI-powered precision.",
     generator: 'v0.dev'

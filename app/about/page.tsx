@@ -73,7 +73,7 @@ export default function AboutPage() {
     {
       year: "2014",
       title: "Company Founded",
-      description: "DocVerify was founded with a mission to make document verification secure and accessible.",
+      description: "BlockCertify was founded with a mission to make document verification secure and accessible.",
     },
     {
       year: "2016",
@@ -111,7 +111,7 @@ export default function AboutPage() {
       social: {
         linkedin: "#",
         twitter: "#",
-        email: "sarah@docverify.com",
+        email: "sarah@BlockCertify.com",
       },
     },
     {
@@ -122,7 +122,7 @@ export default function AboutPage() {
       social: {
         linkedin: "#",
         twitter: "#",
-        email: "michael@docverify.com",
+        email: "michael@BlockCertify.com",
       },
     },
     {
@@ -133,7 +133,7 @@ export default function AboutPage() {
       social: {
         linkedin: "#",
         twitter: "#",
-        email: "emily@docverify.com",
+        email: "emily@BlockCertify.com",
       },
     },
     {
@@ -144,7 +144,7 @@ export default function AboutPage() {
       social: {
         linkedin: "#",
         twitter: "#",
-        email: "david@docverify.com",
+        email: "david@BlockCertify.com",
       },
     },
   ]
@@ -181,7 +181,7 @@ export default function AboutPage() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8 }}
           >
-            <Badge className="mb-4 bg-primary/10 text-primary hover:bg-primary/20">🏢 About DocVerify</Badge>
+            <Badge className="mb-4 bg-primary/10 text-primary hover:bg-primary/20">🏢 About BlockCertify</Badge>
             <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">
               Leading the Future of
               <span className="text-primary block">Document Security</span>
@@ -489,7 +489,7 @@ export default function AboutPage() {
           >
             <h2 className="text-3xl md:text-4xl font-bold mb-4">Ready to Work With Us?</h2>
             <p className="text-xl mb-8 opacity-90 max-w-2xl mx-auto">
-              Join thousands of companies that trust DocVerify for their document verification needs. Let's build
+              Join thousands of companies that trust BlockCertify for their document verification needs. Let's build
               something great together.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -523,7 +523,7 @@ export default function AboutPage() {
             <div>
               <Link href="/" className="flex items-center space-x-2 mb-4">
                 <Shield className="h-8 w-8 text-primary" />
-                <span className="text-xl font-bold">DocVerify</span>
+                <span className="text-xl font-bold">BlockCertify</span>
               </Link>
               <p className="text-muted-foreground mb-4">
                 The world's most trusted document validation platform, securing millions of documents worldwide.
@@ -610,7 +610,7 @@ export default function AboutPage() {
           </div>
 
           <div className="border-t mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
-            <p className="text-muted-foreground">© 2024 DocVerify. All rights reserved.</p>
+            <p className="text-muted-foreground">© 2024 BlockCertify. All rights reserved.</p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
                 Privacy Policy

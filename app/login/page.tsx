@@ -343,7 +343,7 @@ export default function LoginPage() {
                     <div>
                       <p className="font-semibold">Trusted by 10,000+ Companies</p>
                       <p className="text-sm text-muted-foreground">
-                        Join organizations worldwide who trust DocVerify for secure document verification.
+                        Join organizations worldwide who trust BlockCertify for secure document verification.
                       </p>
                     </div>
                   </div>

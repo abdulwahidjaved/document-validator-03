@@ -64,7 +64,7 @@ export default function ContactPage() {
     {
       icon: Mail,
       title: "Email Support",
-      content: "contact@docverify.com",
+      content: "contact@BlockCertify.com",
       description: "Send us an email anytime! We typically respond within 2 hours during business hours.",
       action: "Send Email",
       color: "text-blue-500",
@@ -121,21 +121,21 @@ export default function ContactPage() {
       city: "San Francisco",
       address: "123 Security Street, Tech City, TC 12345",
       phone: "+1 (555) 123-4567",
-      email: "sf@docverify.com",
+      email: "sf@BlockCertify.com",
       hours: "Mon-Fri: 8am-6pm PST",
     },
     {
       city: "New York",
       address: "456 Finance Avenue, New York, NY 10001",
       phone: "+1 (555) 234-5678",
-      email: "ny@docverify.com",
+      email: "ny@BlockCertify.com",
       hours: "Mon-Fri: 9am-7pm EST",
     },
     {
       city: "London",
       address: "789 Security Lane, London, UK EC1A 1BB",
       phone: "+44 20 1234 5678",
-      email: "london@docverify.com",
+      email: "london@BlockCertify.com",
       hours: "Mon-Fri: 9am-5pm GMT",
     },
   ]
@@ -144,7 +144,7 @@ export default function ContactPage() {
     {
       question: "How quickly can I get started?",
       answer:
-        "You can start using DocVerify immediately with our free trial. Full onboarding typically takes 1-2 business days.",
+        "You can start using BlockCertify immediately with our free trial. Full onboarding typically takes 1-2 business days.",
     },
     {
       question: "Do you offer custom integrations?",
@@ -195,7 +195,7 @@ export default function ContactPage() {
             </h1>
             <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
               Ready to secure your documents? Contact our team for a personalized demo, technical support, or to learn
-              how DocVerify can transform your document verification process.
+              how BlockCertify can transform your document verification process.
             </p>
           </motion.div>
         </div>
@@ -520,7 +520,7 @@ export default function ContactPage() {
             <h2 className="text-3xl md:text-4xl font-bold mb-4">Ready to Get Started?</h2>
             <p className="text-xl mb-8 opacity-90 max-w-2xl mx-auto">
               Don't wait to secure your documents. Start your free trial today and see why thousands of companies trust
-              DocVerify.
+              BlockCertify.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button
@@ -549,7 +549,7 @@ export default function ContactPage() {
             <div>
               <Link href="/" className="flex items-center space-x-2 mb-4">
                 <Shield className="h-8 w-8 text-primary" />
-                <span className="text-xl font-bold">DocVerify</span>
+                <span className="text-xl font-bold">BlockCertify</span>
               </Link>
               <p className="text-muted-foreground mb-4">
                 The world's most trusted document validation platform, securing millions of documents worldwide.
@@ -636,7 +636,7 @@ export default function ContactPage() {
           </div>
 
           <div className="border-t mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
-            <p className="text-muted-foreground">© 2024 DocVerify. All rights reserved.</p>
+            <p className="text-muted-foreground">© 2024 BlockCertify. All rights reserved.</p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
                 Privacy Policy

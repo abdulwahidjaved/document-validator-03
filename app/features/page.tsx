@@ -239,7 +239,7 @@ export default function FeaturesPage() {
               <span className="text-primary block">Complete Document Security</span>
             </h1>
             <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
-              Discover the comprehensive suite of features that make DocVerify the most trusted document validation
+              Discover the comprehensive suite of features that make BlockCertify the most trusted document validation
               platform worldwide. From AI-powered verification to enterprise-grade security.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -544,7 +544,7 @@ export default function FeaturesPage() {
             <Badge className="mb-4 bg-primary/10 text-primary">Comparison</Badge>
             <h2 className="text-3xl md:text-4xl font-bold mb-4">How We Compare</h2>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-              See how DocVerify stacks up against the competition across key performance metrics.
+              See how BlockCertify stacks up against the competition across key performance metrics.
             </p>
           </motion.div>
 
@@ -560,7 +560,7 @@ export default function FeaturesPage() {
                   <thead>
                     <tr className="border-b">
                       <th className="text-left p-4 font-semibold">Feature</th>
-                      <th className="text-center p-4 font-semibold text-primary">DocVerify</th>
+                      <th className="text-center p-4 font-semibold text-primary">BlockCertify</th>
                       <th className="text-center p-4 font-semibold text-muted-foreground">Competitor A</th>
                       <th className="text-center p-4 font-semibold text-muted-foreground">Competitor B</th>
                     </tr>
@@ -726,7 +726,7 @@ export default function FeaturesPage() {
             <div>
               <Link href="/" className="flex items-center space-x-2 mb-4">
                 <Shield className="h-8 w-8 text-primary" />
-                <span className="text-xl font-bold">DocVerify</span>
+                <span className="text-xl font-bold">BlockCertify</span>
               </Link>
               <p className="text-muted-foreground mb-4">
                 The world's most trusted document validation platform, securing millions of documents worldwide.
@@ -813,7 +813,7 @@ export default function FeaturesPage() {
           </div>
 
           <div className="border-t mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
-            <p className="text-muted-foreground">© 2024 DocVerify. All rights reserved.</p>
+            <p className="text-muted-foreground">© 2024 BlockCertify. All rights reserved.</p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
                 Privacy Policy

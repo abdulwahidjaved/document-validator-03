@@ -48,7 +48,7 @@ export function Navigation() {
           >
             <Link href="/" className="flex items-center space-x-2">
               <Shield className="h-8 w-8 text-primary" />
-              <span className="text-xl font-bold">DocVerify</span>
+              <span className="text-xl font-bold">BlockCertify</span>
             </Link>
           </motion.div>
 
